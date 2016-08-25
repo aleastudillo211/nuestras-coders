@@ -1,0 +1,72 @@
+.linea{
+	width: 80px;
+	height:2px;
+	background-color: black;
+}
+
+.padre {
+    width: 900px;
+    height: 900px;
+    position: relative;
+
+}
+.foto1{
+	width: 200px;
+	height: 200px;
+	background-image: url(../img/profile-1.png);
+	float: left;
+	position: relative;
+	margin:10px;
+
+}
+.foto2 {
+	width: 200px;
+	height: 200px;
+	background-image: url(../img/profile-2.png);
+	float: left;
+	position: relative;
+	margin:10px;
+}
+
+.foto3 {
+	width: 200px;
+	height: 200px;
+	background-image: url(../img/profile-3.png);
+	float: left;
+	position: relative;
+	margin:10px;
+}
+
+.foto4 {
+	width: 200px;
+	height: 200px;
+	background-image:url(../img/profile-4.png);
+	float: left;
+	position: relative;
+	margin:10px;
+	clear: both;
+	}
+
+.foto5 {
+	width: 200px;
+	height: 200px;
+	background-image:url(../img/profile-5.png);
+	float: left;
+	position: relative;
+	margin:10px;
+}
+.foto6{
+	width: 200px;
+	height: 200px;
+	background-image: url(../img/profile-6.png);
+	float: left;
+	position: relative;
+	margin:10px;
+}
+span {
+	color: white;
+	font-size:12px;
+	position: absolute;
+	bottom: 0px;
+	right:0px;
+}
